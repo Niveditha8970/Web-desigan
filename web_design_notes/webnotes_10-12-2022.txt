@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>basic program</title>
+<meta charset="UTF=8">
+<meta name="description" content="this is one of the demo project">
+<meta name="keyword" content="Demo">
+<meta name="author" content="Basic program">
+<meta name="viewport"content="">
+
+</head>
+<body>
+<h1>Welcome to demo page</h>
+<p>
+Hello this is my basic program</p>
+<div>
+<p>This is the basuc program that <br/> we are doing
+html and css </p>
+<div>
+<span style="color:blue;"> the elements we want to display within span tag</span>  ''' This is use to change the color of the text'''
+<b>this is an bold statment</b></br>
+<u>This is an example used to underline the text</u></br>
+<i>this is an italic text example</i>
+<strond>This is another way of displaying data</strong></br>
+<em>This is an italic example<em>
+</body>
+</html> 
+
+======================================================================================================================================================
+
+<html>
+<head>
+<title>basic program</title>
+<meta charset="UTF=8">
+<meta name="description" content="this is one of the demo project">
+<meta name="keyword" content="Demo">
+<meta name="author" content="Basic program">
+<meta name="viewport"content="">
+
+</head>
+<body>
+<h1>Welcome to demo pade</h1>
+<img src="my.jpg" alt="this is an image" width="1000" hight="500">
+</body>
+</html> 
+<!-- write a pragh about our hobbies and come statments should be in bold and underline <div><p><h>-->

@@ -1,0 +1,58 @@
+<html> <> tags, HTML[hyper text markup language]
+<head>
+</head>
+<body>
+</body>
+</html>====> close tag
+
+=========================================================
+This is all tags:
+<html>
+<head>
+<title>basic program</title>
+<link></link>
+<meta></meta>
+</head>
+<body>
+different header tag<h1><h2><h3><h4> ======> h1 is the higest header
+</body>
+</html> 
+===========================================================
+This is using headers with diffrerent size, h1 is bigg size and h6 is small size
+
+<html>
+<head>
+<title>basic program</title>
+<link></link>
+<meta></meta>
+</head>
+<body>
+Hello this is my basic program
+<h1>different header tag</h1>
+<h2>different header tag</h2>
+<h3>different header tag</h3>
+<h4>different header tag</h4>
+<h5>different header tag</h5>
+<h6>different header tag</h6>
+</body>
+</html>
+
+====================================================================
+using <p></p> tag for paragraph
+<html>
+<head>
+<title>basic program</title>
+<link></link>
+<meta></meta>
+</head>
+<body>
+Hello this is my basic program
+<p>This is the basuc program that we are doing
+html and css </p>
+</body>
+</html> 
+=====================================================================
+we'll use <br/>tag is used to break the txt
+
+
+write an basic html program for the python description

@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>basic program</title>
+<meta charset="UTF=8">
+<meta name="description" content="this is one of the demo project">
+<meta name="keyword" content="Demo">
+<meta name="author" content="Basic program">
+<meta name="viewport"content="">
+
+</head>
+<body>
+<h1>Table Example</h1>
+<table border="2" height="100px" width="100px">
+<th>ID</th>
+<th>Name</th>
+<th>Place</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Praful</td>
+<td>Mumbai</td>
+</table>
+</body>
+</html>
+
+=====================================================================================
+
+<html>
+<head>
+<title>basic program</title>
+<meta charset="UTF=8">
+<meta name="description" content="this is one of the demo project">
+<meta name="keyword" content="Demo">
+<meta name="author" content="Basic program">
+<meta name="viewport"content="">
+
+</head>
+<body>
+<h1>Table Example</h1>
+<table border="2" height="100px" width="100px" bgcolor="blue">
+<tr>
+<th>ID</th>
+<th colspan="2">Data</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Praful</td>
+<td>Mumbai</td>
+</tr>
+<td>2</td>
+<td>Tushar</td>
+<tr>
+</table>
+</body>
+</html>
+<!--table-arrange the 

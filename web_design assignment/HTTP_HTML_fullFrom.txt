@@ -1,0 +1,10 @@
+1.HTTP stands for?
+ Hyper text Transfer Protocol 
+
+2.In HTML'S S stands for_____?
+a.simple
+b.secured
+c.server
+d.none of these
+
+Ans:- d.none

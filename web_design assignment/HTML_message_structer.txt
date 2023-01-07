@@ -1,0 +1,48 @@
+1.Explain structure of HTML.
+
+   HTML is the standard markup language for creating web pages.
+HTML describe the structure of web page and html consists of a series of elments.
+HTML elements tell the browser how to display the content and HTML elements label pieces of
+content such as 'this is a heading', "this is a paragraph',etc..
+
+2.Create web page to display "Welcome to HTML" message.
+
+<html>
+<head>
+<title>Welcome page</title>
+</head>
+<body>
+<h1>Welcome to HTML</h1>
+</body>
+</html>
+
+3.Explain comments in HTML.
+
+   The comment tag is used to insert comments in the source code.comments are not displayed in the browsers.
+You can use comments to explain your code, which can help you when you edit the source code at alater date.
+syntax:-
+<!--text or code explation-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

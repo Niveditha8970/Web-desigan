@@ -1,0 +1,45 @@
+3.Demonstrate use of nested list?
+
+A list is a record of short piesces of related information used to display that data or any information in web
+pages in the orderd or unordered form. For example, to purchase the items we need to prepare a list that can 
+either be ordered or unordered list ehich helps us to organize the data and easy to find the item.
+
+Three tags are used in HTML List.
+
+1.<ul> tage
+2.<ol> tage
+3.<li> tage
+
+->A unordered list starts with "ul" tage and ordered list start with "ol" tage. each list item start with "li" tag.
+The list items are marked with bullets i.e small black circles by default.
+
+Example:-
+
+<html>
+<head>Nested list</head>
+<body>
+<h1> A Nested list</h1>
+
+<ul>
+<li>Coffee</li>
+<li>Tea
+<ul>
+<li>black tea</li>
+<li>green tea</li>
+</ul>
+</li>
+<li>milk</li>
+</ul>
+
+</body>
+</html>
+
+
+output:--
+
+A Nested List
+Coffee
+Tea
+Black tea
+Green tea
+Milk

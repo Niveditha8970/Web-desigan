@@ -1,0 +1,111 @@
+CSS3 properties
+=================
+
+Gradient property
+-----------------
+
+It is background property
+With the help of gradient property, two or more colors with the
+proper transition can be applied on the background.
+
+syntax:
+
+background-image:linear-gradient(direction,col1,col2,.....,colorN)
+
+Default direction in linear gradient is top to bottom
+
+direction
+=========
+final direction
+
+to right: from left to right
+to left: from right to left
+to bottom: from top to bottom    default
+to top: from bottom to top
+
+diagonal direction
+-------------------
+to bottom right: from top left to bottom right
+to top right: from bottom left to top right
+to bottom left: from top right to bottom left
+to top left: from bottom right to top left
+
+radial-gradient
+
+transform(change):
+==================
+used to change from one phase to another phase
+
+this property contains following functions as values.
+translate()
+------------
+1)translate(Xpx,Ypx)
+2)translateX(Xpx)
+3)translateY(Ypx)
+
+this property help to move element from one position to another position 
+making that element dynamic.
+
+scale()
+--------
+	this is used to scale the element(zoom in/zoom out)
+1)transform:scale(n)
+2)transform:scaleX(n)
+3)transform:scaleY(n)
+
+rotate()
+--------
+1)transform:rotate(ndeg);
+2)transform:rotateX(ndeg);
+3)transform:rotateY(ndeg);
+
++ve value for clockwise direction and 
+-ve value for anticlockwise direction
+
+Transition property
+====================
+
+with this transition property, transformation can be controlled.
+
+syntax:
+	transition-property:propertyname;  --- with translate, scale, rotate
+	transition-duration:ns;
+	transition-delay:ns;
+	
+Types of website or webpage layout
+----------------------------------
+ there are 4 types of layouts
+ -----------------------------
+ 
+ 1)static
+ 2)fluid 
+ 3)Adaptive
+ 4)responsive
+ 
+ static layout
+ =============
+ In this layout, all width and height of the HTML element are mentioned
+ in pixcels.
+ 
+ Disadvantage
+ ============
+  when we decrease the screen size, it generate horizontal scroll bar and user
+  need to scroll horizontally which gives bad user experience
+  
+  Fluid layout
+  ============
+  In this layout, dimensions are mentioned in percentage, this layout
+  removes disadvatage of static layout.
+  
+  when we decrease screen size, the element decreases in the size
+  and content can be view in a single site by the user.
+  
+  disadvatage
+  ===========
+  if the width mentioned in the percentage is too small, on decrease in the size
+  of the sreen, content become narrow and it is difficult for the user
+  to read that contnet
+  
+  
+
+

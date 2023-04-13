@@ -1,0 +1,42 @@
+whatsapp
+resources- text, images, video, audio, gif,document, contact,etc
+
+
+
+web architecture
+===================
+
+		------request--->
+client						server   www.itvedant.com
+		<----response---
+		
+
+front end technologies		backend technologies
+
+HTML						python
+css							php, java, .net
+Javascript
+
+HTML- build structure
+css- presentation
+javascript- to make your webpage dynamic
+
+html structure
+==============
+<! DOCTYPE html>
+<html>
+	<head>
+		<title>title of html page</title>
+		page information
+		content is not displayed on web page
+	</head>
+	<body>
+		content is displayed on the web page
+	
+	</body>
+</html>
+
+html comments
+==============
+syntax:
+	<!----------- comments in html ------------>

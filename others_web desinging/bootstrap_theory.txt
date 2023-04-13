@@ -1,0 +1,54 @@
+Bootstrap is a css framework
+bootstrap consist of inbuilt classes which are used to develop frontend
+ for user.
+ 
+ bootstrap also provide grid structure with the help of which
+ we can place elements properly on the browser.
+ 
+ with the help of bootstrap, we can create responsive web page
+ 
+ bootstrap is twitter project
+ 
+ there are two ways to apply bootstrap
+ 1)online CDN
+    CDN: content Delivery Network
+	
+ 2)offline:
+ 
+
+
+Grid system:
+============
+bootstrap has 12 column grid system.
+it means entire screen is divided into 12 columns
+
+entire screen width = 100%
+
+width of each column=100/12= 8.33%
+
+container
+    |
+	row
+	|
+	columns
+
+breakpoint: it is screen width in pixels at which layout changes
+See them in action and compare them in our Grid example.
+               Extra small
+				<576px   ≥576px ≥768px  ≥992px  ≥1200px  ≥1400px
+
+.container	   100%  	540px	720px	960px	1140px	1320px
+.container-sm	100%	540px	720px	960px	1140px	1320px
+.container-md	100%	100%	720px	960px	1140px	1320px
+.container-lg	100%	100%	100%	960px	1140px	1320px
+.container-xl	100%	100%	100%	100%	1140px	1320px
+.container-xxl	100%	100%	100%	100%	100%	1320px
+.container-fluid	100%	100%	100%	100%	100%	100%
+
+what is container?
+
+containers are the most basic layout element in bootstrap
+ types of containers classes
+ 1) .container
+ 2) .container_fluid
+ 3) .container - {breakpoint}

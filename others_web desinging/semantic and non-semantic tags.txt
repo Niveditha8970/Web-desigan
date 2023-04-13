@@ -1,0 +1,113 @@
+Sementic Tags and Non-sementic Tags.
+--------------------------------------
+
+Semantic Tags
+-------------
+The tags which provides meaning to the browser
+as well as developer are called as semantic
+tags.
+In short, the tags which convey their content or functionality to
+the browser and developer by their name are called semantic tags.
+
+Element: <opentag>content</closetag>
+
+E.g:<form>,<table>,<em>,<strong>,<p>,<h1>,....<h6>, etc.
+
+We are in <strong>Artificial Intellgient</strong>world.
+
+Non-semantic Tag 
+----------------
+The tags which do not specify the meaning 
+to the browser as well as developer are called
+as Non-Semantic tags.
+
+In short, by the names of the non-semantic tags we can not guess the 
+functionality or formating that the tags do.
+E.g:
+	<div>,<span>,<b>,<i> etc.
+
+    <div>
+	       <h1>HTML</h1>
+		   <p>
+		      HTML is a tagging language.
+		   </p>
+	</div>
+	
+	<div>
+	       <h1>CSS</h1>
+		   <p>
+		     CSS is used for presentation.
+		   </p>
+	</div>
+
+
+Advantages of semantic tags:
+
+1) SEO optimization.
+2) Code maintainability.
+
+Sachin Tendulkar says'Indian Team is the strongest Team'
+
+sachin Tendulkar says'<em>Indian Team is the strongest Team</em>'
+
+sachine Tendulkar says'<i>Indian Team is the strongest Team</i>'
+
+HTML 5 sementic tags.
+
+Body of the html document is generally divided into three parts:
+1) Header 2)Body 3)Footer
+
+before the introduction of HTML 5 semantic tags, developer were using
+the following format to code the HTML document.
+
+<html>
+	<head>
+
+	</head>
+	<body>
+		<div id="header">
+          	<div id="logo">
+		  		company logo
+		  	</div>
+		  
+		  	<div id="menu">
+		  		menu bar
+		  	</div>
+		</div>
+
+		<div id="main">
+           	<div id="section">
+		   
+			</div>
+			<div id="aside">
+			
+			</div>
+		   
+		   
+		</div>
+
+		<div id="footer">
+        		<div id="address">
+		
+			</div>
+		
+			<div id="social">
+		
+			</div>
+			<div id="links">
+		
+			</div>
+   
+		</div>
+
+
+Although this way writing the code is easy
+for the developer from the point of view of
+code maintainability,but it was creating problem
+for search Engines.
+
+As a result W3C(world wide web consortium) took a
+decision to convert these ids into tags.
+
+<header>,<footer>,<address>,<main>,<menu>,<sidebar>, etc.
+for the purpose of search enging optimization.

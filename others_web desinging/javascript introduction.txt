@@ -1,0 +1,57 @@
+Javascript
+==========
+
+web architecture
+=================
+             request
+       ---------------->
+client                   server
+       <-----------------
+	        response
+			
+client side technologies
+1)HTML
+2)CSS
+3)Javascript
+
+HTML: To build webpage structure or frontend structure
+CSS:  presentaton, it makes your webpage more attractive
+JS:   Make web page dynamic
+
+what is javascript?
+==================
+
+1)It is object oriented programming language
+2)It is light weighted
+
+light weighted means minimum use of resources. 
+i.e minimum consumption of processing, minimum use of RAM
+
+In short, language which can be executed through browser, 
+can be termed as light weighted.
+
+3)Javascript help user to interact with web application without
+reloading web page
+4)with javascript you can perform following manipulations
+	1) HTML manipulations
+	2) CSS manipulations
+	3) value manipulations
+	4) attribute manipulations
+
+HTML manipulation means dyanamic change in the HTML element content.
+
+Types of javascript
+-------------------
+1)Internal javascript
+2)External javascript
+
+Internal javascript
+===================
+	the javascript is written in the head tag enclosed within
+	script tags.
+	
+	<script>
+		
+		Javascript code
+	
+	</script>
